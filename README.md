@@ -1,0 +1,3 @@
+# SchoolApplication
+
+Pet project
